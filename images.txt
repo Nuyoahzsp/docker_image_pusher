@@ -4,6 +4,10 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ghcr.io/estrellaxd/auto_bangumi:latest
-linuxserver/qbittorrent
-lscr.io/linuxserver/jellyfin:latest
+
+# AutoBangumi
+--platform=linux/arm64 estrellaxd/auto_bangumi:latest
+# qBittorrent
+--platform=linux/arm64 linuxserver/qbittorrent:latest
+# Jellyfin
+--platform=linux/arm64 linuxserver/jellyfin
