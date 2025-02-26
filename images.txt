@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/estrellaxd/auto_bangumi:latest
 linuxserver/qbittorrent
+lscr.io/linuxserver/jellyfin:latest
